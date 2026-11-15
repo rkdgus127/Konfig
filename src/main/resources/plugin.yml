@@ -1,0 +1,6 @@
+name: Konfig
+version: '${version}'
+main: dev.rkdgus.konfig.KonfigPlugin
+api-version: '1.21'
+description: Annotation-driven automatic configuration manager for Paper plugins.
+depend: [AutoListen]
